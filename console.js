@@ -10,4 +10,4 @@ return null;
 
 main()
 
-// comnsole.log(main)
+// console.log(main)
